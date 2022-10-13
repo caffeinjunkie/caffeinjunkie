@@ -5,6 +5,6 @@
 
 Currently working on my own website. Cheers!
 
-### Check my linkedin!
+### Check out my linkedin!
 
 https://www.linkedin.com/in/satrioadip/
